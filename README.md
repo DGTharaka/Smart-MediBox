@@ -61,5 +61,7 @@ The Smart Medibox is a project developed using an ESP32 microcontroller designed
 
 ## Contact
 
-For any questions or issues, please contact [Your Name](tharakadidd456@gmail.com).
+For any questions or issues, please contact me at tharakadidd456@gmail.com
+
+
 
