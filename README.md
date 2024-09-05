@@ -47,6 +47,12 @@ The Smart Medibox is a project developed using an ESP32 microcontroller designed
 - **Alarm Management**: Functions to set, check, and ring alarms.
 - **Menu System**: Allows users to navigate through different settings and configure alarms.
 
+## Circuit Diagram
+
+Here is the circuit diagram for the Smart Medibox:
+
+![Circuit Diagram](Images/Wokwi_Circuit.png)
+
 ## Usage
 
 1. **Set Time Zone**: Navigate to the menu option to set the UTC offset.
@@ -58,10 +64,6 @@ The Smart Medibox is a project developed using an ESP32 microcontroller designed
 - The `Wokwi` simulation environment is used for testing and demonstrating the functionality of the Smart Medibox.
 - Make sure the ESP32 is connected to the internet for NTP time fetching.
 
-
 ## Contact
 
 For any questions or issues, please contact me at tharakadidd456@gmail.com
-
-
-
